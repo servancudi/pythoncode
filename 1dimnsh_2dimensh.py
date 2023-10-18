@@ -1,13 +1,3 @@
-import save_file2
-#************AYAZ*********
-import clear_com
-import colorama
-clear_com.clear()
-from colorama import Fore
-arr1 = []
-arr2=[]
-print(Fore.LIGHTRED_EX+"please enter ant number for arry items : (press * to finish) :")
-while True:
 
    num= input(Fore.LIGHTMAGENTA_EX +"") 
    if num =="*" :
